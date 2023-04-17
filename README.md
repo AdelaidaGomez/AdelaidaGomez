@@ -5,7 +5,7 @@ I’m a full-time IOS developer. All coding projects are built from the ground u
 ---
 ### Lenguajes and Tools
 
-<img align="left" alt="Java" width="100px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original-wordmark.svg" />
+<img align="left" alt="Java" width="100px" style="padding-right:100px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original-wordmark.svg" />
 
 <!--
 **AdelaidaGomez/AdelaidaGomez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
